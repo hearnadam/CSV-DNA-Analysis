@@ -1,8 +1,6 @@
-# CSV-DNA-Analysis
+# CSV-DNA-Analysis: CSV-DNA-Analysis: A faster & easier method to analyze genomic data.
 
 ## Note: This project is not complete & should not be used without significant modification.
-
-### CSV-DNA-Analysis: A faster & easier method to analyze genomic data.
 
 **This project assumes the DNA data follows 23andme data format (As of December 2020).**
 
