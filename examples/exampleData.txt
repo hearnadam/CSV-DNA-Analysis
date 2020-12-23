@@ -1,0 +1,6 @@
+rs53576	AA	Lack of empathy?
+rs53576	AG	Lack of empathy?
+rs53576	GG	Optimistic and empathetic handle stress well
+rs1815739	CC	Better performing muscles. Likely sprinter.
+rs1815739	CT	Mix of muscle types. Likely sprinter. 
+rs1815739	TT	Impaired muscle performance. Likely endurance athlete. 

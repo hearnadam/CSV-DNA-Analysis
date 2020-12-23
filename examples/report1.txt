@@ -1,0 +1,8 @@
+RSID: rs53576
+Genotype: AA
+Info: Lack of empathy?
+
+RSID: rs1815739
+Genotype: TT
+Info: Impaired muscle performance. Likely endurance athlete. 
+
