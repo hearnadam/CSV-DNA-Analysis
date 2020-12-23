@@ -8,7 +8,7 @@
 
  An example of proper command-line usage follows:
  ```
- java tab_seperated_data.txt DNAFile1.txt DNAFile2.txt
+ java DNAtool tab_seperated_data.txt DNAFile1.txt DNAFile2.txt
  ```
 
  The major limitation with this tool is the inability to analyze multiple SNPs at once.
